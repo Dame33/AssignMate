@@ -1,3 +1,5 @@
+This Java-based Task Manager application helps users organize and track assignments. The program allows adding, editing, viewing, and deleting tasks with details such as title, description, due date, priority, and class code. The application validates input formats like dates and ensures all data is properly stored for easy retrieval and updates.
+
 AssignMate Example
 
 Adding Task:
