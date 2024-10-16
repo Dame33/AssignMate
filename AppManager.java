@@ -17,7 +17,7 @@ public class AppManager {
 		
 		while (exit != true) {
 			System.out.println("Welcome To the Assignment Manager System");
-			System.out.println("Please Choose one of the follow \n1. Add Task \n2. Edit Task \n3. Remove Task \n4. View all Tasks \n5. Quit Application");
+			System.out.println("Please Choose one of the following \n1. Add Task \n2. Edit Task \n3. Remove Task \n4. View all Tasks \n5. Quit Application");
 			System.out.print("Choose an Action: ");
 			
 			int pick = scanner.nextInt();
