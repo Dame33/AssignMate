@@ -2,7 +2,6 @@ package taskManager;
 import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
-import java.sql.SQLException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
